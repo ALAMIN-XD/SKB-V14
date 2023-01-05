@@ -648,7 +648,7 @@ def bd1():
 	uid=[]
 	os.system('clear')
 	print(logo)
-	print('[√] EXAMPLE : 88***,88***,88***,.ETC')
+	print('[√] EXAMPLE : 88017,88018,88019,88016.ETC')
 	linex()
 	kode = input('[+]\033[1;37m PUT YOUR SIM CODE : ')
 	os.system('clear')
@@ -682,7 +682,7 @@ def bd2():
 	uid=[]
 	os.system('clear')
 	print(logo)
-	print('[√] EXAMPLE : 88***,88***,88***,.ETC')
+	print('[√] EXAMPLE : 88017,88019,88018,88016.ETC')
 	linex()
 	kode = input('[+]\033[1;37m PUT YOUR SIM CODE : ')
 	os.system('clear')
@@ -715,7 +715,7 @@ def bd3():
 	uid=[]
 	os.system('clear')
 	print(logo)
-	print('[√] EXAMPLE : 88***,88***,88***,.ETC')
+	print('[√] EXAMPLE : 88017,88019,88018,88016.ETC')
 	linex()
 	kode = input('[+]\033[1;37m PUT YOUR SIM CODE : ')
 	os.system('clear')
