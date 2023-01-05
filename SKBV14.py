@@ -157,7 +157,7 @@ _____ _    _       _______
   ____) |   <| |_) |    | |  __/ (_| | | | | | |
  |_____/|_|\_\_.__/     |_|\___|\__,_|_| |_| |_|
 \33[1;37m----------------------------------------------
-→   Owner      :  ent Killer Boys Team
+→   Owner      :  Silent Killer Boys Team
 →   Facebook   :  Md. Alamin Islam
 →   Github     :  SKB-XD80
 →   Tool Type  :  \x1b[1;91mFREE
