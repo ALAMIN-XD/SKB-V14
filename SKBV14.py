@@ -150,18 +150,14 @@ awan =[
 'Mozilla/5.0 (Linux; Android 10; LM-X420) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.128 Mobile Safari/537.36',
 'Mozilla/5.0 (Linux; Android 10; LM-Q710(FGN)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.128 Mobile Safari/537.36',]
 logo=("""\033[1;97m
-     d8b   db  .d88b.   .d88b.  d8888b. 
-     888o  88 .8P  Y8. .8P  Y8. 88  `8D 
-     \x .d8888b.  888      888           88888888888                              
-d88P  Y88b 888      888               888                                  
-Y88b.      888      888               888                                  
- "Y888b.   888  888 88888b.           888   .d88b.   8888b.  88888b.d88b.  
-    "Y88b. 888 .88P 888 "88b          888  d8P  Y8b     "88b 888 "888 "88b 
-      "888 888888K  888  888          888  88888888 .d888888 888  888  888 
-Y88b  d88P 888 "88b 888 d88P          888  Y8b.     888  888 888  888  888 
- "Y8888P"  888  888 88888P"           888   "Y8888  "Y888888 888  888  888 
+_____ _    _       _______                   
+  / ____| |  | |     |__   __|                  
+ | (___ | | _| |__      | | ___  __ _ _ __ ___  
+  \___ \| |/ / '_ \     | |/ _ \/ _` | '_ ` _ \ 
+  ____) |   <| |_) |    | |  __/ (_| | | | | | |
+ |_____/|_|\_\_.__/     |_|\___|\__,_|_| |_| |_|
 \33[1;37m----------------------------------------------
-→   Owner      :  Silent Killer Boys Team
+→   Owner      :  ent Killer Boys Team
 →   Facebook   :  Md. Alamin Islam
 →   Github     :  SKB-XD80
 →   Tool Type  :  \x1b[1;91mFREE
